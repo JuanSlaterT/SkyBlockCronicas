@@ -1,0 +1,12 @@
+main: hotdoctor.plugin.skyblockcronicas.Main
+version: 1.0
+name: SkyBlockCronicas
+author: HotDoctor
+depend: [PlaceholderAPI]
+api-version: 1.13
+
+
+commands:
+  admincronicas:
+    description: plugin command of Cronicas plugin.
+    aliases: [ac]
